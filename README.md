@@ -1,6 +1,6 @@
 # Predicting-Costomer-Satisfaction
 
-Cognizance is a Technical Fest of IIT Roorkee. In a team of three, I participated in a Data Competition Alankan. <br>
+Cognizance is a Technical Fest of IIT Roorkee. We participated in a Data Competition Alankan. <br>
 The problem Statment is uploaded along with dataset and competition guidelines. <br>
 
 The case study revolves around Invistico Airlines and its growing customer base over the past few years. As the head of the Business Insights Department, we had to: 
